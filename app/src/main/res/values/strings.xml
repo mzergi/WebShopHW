@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WebShopHW</string>
+    <string name="appbar_scrolling_view_behavior" translateable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name = "cart_pieces">piece(s)</string>
+    <string name = "currency">Ft</string>
+    <string name = "OK">OK</string>
+    <string name = "cancel">Cancel</string>
+    <string name = "checkout_header">Enter your credentials</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="card_number">Card Number:</string>
+    <string name="valid_through">Valid through:</string>
+    <string name="code">Code:</string>
+    <string name="total_price">Total price:</string>
+</resources>
